@@ -51,18 +51,3 @@ you are free to use online resources but please cite them):
  An Ensemble model containing the top 3 models overall.
 6) Perform visualization of your model performances, insights etc using apt metrics and charts (ex: MSE
 bar plots of all the models to identify best models).
-7) Video Presentation:
-• 15 minutes of video presentation.
-• Create a PowerPoint presentation (maximum 15 slides).
-• Use MS Teams to create the video of the PowerPoint presentation.
-• Each member of the group should introduce him/her-self.
-• Each member should speak equally and should be visible when speaking.
-• Make sure that your video is saved on SharePoint and is not expiring/365 days.
-• Make sure that the instructor and both TAs have access to it.
-8) Files to submit:
-a) Group_X_newmodels.ipynb and its pdf(including the hyperparameter tuning)
-b) Group_X_first_variable_selection.ipynb and its pdf (including hyperparameter tuning)
-c) Group_X_Bi_directional_elimination.ipynb and its pdf (with the training data performances)
-d) Group_X_Additional_Models.ipynb and its pdf (models from step 5)
-e) Group_X_presentation_of_the_test_results.ipynb (the top model from step 1, step3, step 4, all
-models from step 5)
