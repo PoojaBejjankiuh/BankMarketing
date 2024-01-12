@@ -1,6 +1,7 @@
 # Bank Marketing Data Analysis
 # Data Set Link
-https://archive.ics.uci.edu/dataset/316/condition+based+maintenance+of+naval+propulsion+plants 
+https://archive.ics.uci.edu/dataset/222/bank+marketing 
+
 # Phase 1
 1) Selecting a dataset: Select a dataset from uci data repository or an API based tabular dataset
 (example: Twitter developer tools , time series stock data etc) (creativity will be appreciated). It must
